@@ -24,7 +24,7 @@ Key dependencies include TensorFlow, NumPy, Scikit-learn, Matplotlib, Seaborn, a
 <img width="431" height="145" alt="image" src="https://github.com/user-attachments/assets/104fbd33-6a21-4465-8fef-6e779b8bfb38" />
 
 https://github.com/Kushal-Raj-135/Lung-cancer - project link 
-https://1drv.ms/w/c/436889e7b4919540/IQC47KY5PG_vSpAjk_nd8s74Aa59S-6qzCQOHsyzZEMz7fo?e=GDmHue - research paper link 
+https://1drv.ms/w/c/436889e7b4919540/IQACLU0SroIFTLwkU7HQ90oAARHAvLi-SZzn4-E1_-xdWK4?e=CJ6J2q - research paper 
 
 
 
