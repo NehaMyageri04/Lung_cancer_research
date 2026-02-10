@@ -18,6 +18,9 @@ The implementation requires Python 3.8 or higher with TensorFlow 2.x/Keras. Mode
 Key dependencies include TensorFlow, NumPy, Scikit-learn, Matplotlib, Seaborn, and OpenCV. The trained model files (lung_robust_final.keras and lung_final.keras) are lightweight, each approximately 10 MB, enabling easy deployment.
 
 #results 
+
+
+
 <img width="514" height="179" alt="image" src="https://github.com/user-attachments/assets/3cbabb9b-b705-40df-890f-92b12af29bd1" />
 <img width="448" height="172" alt="image" src="https://github.com/user-attachments/assets/085c6adb-3829-4586-ad87-b6bf58740906" />
 <img width="352" height="261" alt="image" src="https://github.com/user-attachments/assets/1525ffc9-ad59-456a-af92-d112652b4b72" />
